@@ -17,7 +17,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS/PHP/LARAVEL/WORDPRESS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niamulkabirshadhin)  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>] 
 <a href="https://fb.com/https://www.facebook.com/niamul.kabir.shadin.455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/niamul.kabir.shadin.455" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/uc2tt7v_inzfh9zl3do57a2a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc2tt7v_inzfh9zl3do57a2a" height="30" width="40" /></a>
 </p>
