@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Shadin.
 #### Love to learn new skills & play with them.
-![Love to learn new skills & play with them.](https://scontent.fdac207-1.fna.fbcdn.net/v/t39.30808-6/488031244_2122152581631865_430322799424047352_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHr_l6rpW4x4ywkPdyzDgRxQgHeoy1xff5CAd6jLXF9_kTjpJMoLGcbQWq9xtRQUUPZ2SC_i3MlGrd2i_6ul72u&_nc_ohc=KiRT1bdfQOAQ7kNvwE0R-3F&_nc_oc=AdlIWX3ywfE3P5XbQyDExE0NwYKU1Lkfp0TjT-ZDXccGvGzkUSZqZXzkM9W9zfkQWsc&_nc_zt=23&_nc_ht=scontent.fdac207-1.fna&_nc_gid=mqJBDWIEhqbjC_OVleIrZw&oh=00_Afqi7NDfBL3oFAFR-T5rxrJQJtoXoaqTZon3Mq18I9qgoA&oe=696CFF2B)
+![](https://scontent.fdac207-1.fna.fbcdn.net/v/t39.30808-6/488031244_2122152581631865_430322799424047352_n.jpg?stp=cp6_dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHr_l6rpW4x4ywkPdyzDgRxQgHeoy1xff5CAd6jLXF9_kTjpJMoLGcbQWq9xtRQUUPZ2SC_i3MlGrd2i_6ul72u&_nc_ohc=PB7jB8uoGBMQ7kNvwElSpRt&_nc_oc=AdnkeY5Sxbg6b-MRaG0xlvQLnOJ2wwOwD9ePbkYe-nf0RvJwHtl7JlZki6JaiTvPacg&_nc_zt=23&_nc_ht=scontent.fdac207-1.fna&_nc_gid=jbciPefk-_OPBkuoK_6vzg&oh=00_AfpTJ7P2CVgTpPn8-jpEtcMKTZDv3sNbsW60TCgXTGj_aQ&oe=6972EDEB)
+
 
 I’m Md. Niamul Kabir Shadin, a Software Engineering student at Daffodil International University with a strong focus on front-end web development. I build clean, responsive, and user-friendly websites with a commitment to delivering error-free solutions and ensuring client satisfaction.
 
