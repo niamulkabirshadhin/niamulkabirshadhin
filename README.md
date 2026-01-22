@@ -7,7 +7,12 @@ I’m Md. Niamul Kabir Shadin, a Software Engineering student at Daffodil Intern
 
 Currently, I’m learning WordPress development and working with technologies including JavaScript, ReactJS, and PHP, while continuously improving my skills to create high-quality web experiences.
 
-Skills: VUE JS / REACT / JS / HTML / CSS/PHP/LARAVEL/WORDPRESS
+## 👨‍💻 Skills & Experiance: 
+✅ WordPress <br> 
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
 
 - 🔭 I’m currently working on Wordpress. 
 - 🌱 I’m currently learning wordpress. 
