@@ -21,9 +21,7 @@ Currently, I’m learning WordPress development and working with technologies in
 - 📫 How to reach me: niamulkabirshadhin@gmail.com
 </br>
 
-<h3 align="left">Social information:</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niamulkabirshadhin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/niamul.kabir.shadin.455)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2tT7v_Inzfh9zl3dO57a2A) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niamul-kabir-shadin/)    
   
 
 
@@ -41,6 +39,10 @@ Currently, I’m learning WordPress development and working with technologies in
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niamulkabirshadhin&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niamulkabirshadhin&theme=darcula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niamulkabirshadhin&theme=darcula&utcOffset=8)
+
+<h3 align="left">Social information:</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niamulkabirshadhin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/niamul.kabir.shadin.455)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC2tT7v_Inzfh9zl3dO57a2A) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/niamul-kabir-shadin/)    
 
 
 <h3 align="left">Github Badges:</h3>
