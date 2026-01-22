@@ -28,6 +28,19 @@ Skills: VUE JS / REACT / JS / HTML / CSS/PHP/LARAVEL/WORDPRESS
 
 </br>
 
+<h3>Profile Statistics:</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niamulkabirshadhin&theme=darcula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niamulkabirshadhin&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niamulkabirshadhin&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niamulkabirshadhin&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niamulkabirshadhin&theme=darcula&utcOffset=8)
+
+<h3>Profile Streak:</h3> 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=niamulkabirshadhin&theme=darcula)](https://git.io/streak-stats)
+
 <h3 align="left">Github Badges:</h3>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
